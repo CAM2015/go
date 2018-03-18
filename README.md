@@ -1,0 +1,1 @@
+ A photo gallery application written in Go!
